@@ -15,8 +15,8 @@ const NavBar = () => {
           <li className="mr-2">Consumers</li>
         </ul>
         <div className="flex items-center">
-          <h2>Create an account</h2>
-          <button>Sign in</button>
+          <h2 className="text-primary font-bold mr-3">Create an account</h2>
+          <button className=" border-primary border rounded-md p-2">Sign in</button>
         </div>
       </div>
     </div>
