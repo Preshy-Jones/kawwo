@@ -19,7 +19,7 @@ const config: Config = {
         tertiary: "1.5rem",
         xlg: "0.75rem",
         fourth: "1.5625rem",
-        fifth: ["1.7rem", { lineHeight: "2.383125rem" }],
+        fifth: ["1.75rem", { lineHeight: "2.383125rem" }],
         sixth: ["2.5rem", { lineHeight: "3.1325rem" }],
         xxxs: ["0.5rem", { lineHeight: "0.7rem" }],
         xxs: ["0.625rem", { lineHeight: "0.9375rem" }],
@@ -37,6 +37,7 @@ const config: Config = {
         footer: "#BCBDBD",
         btn: "#6E257E",
         txt: "#F4F5F7",
+        bgx: "#1C3454",
       },
       borderRadius: {
         primary: "1.875rem",
