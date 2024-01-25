@@ -1,3 +1,5 @@
+import FAQ from "@/components/home/FAQ";
+import Features from "@/components/home/features";
 import Flow from "@/components/home/flow";
 import Hero from "@/components/home/hero";
 import DefaultLayout from "@/components/layouts/DefaultLayout";
@@ -16,6 +18,8 @@ const Home = () => {
       <main className="flex flex-col">
         <Hero />
         <Flow />
+        <Features />
+        <FAQ />
       </main>
     </>
   );

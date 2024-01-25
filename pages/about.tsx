@@ -22,7 +22,6 @@ const About = () => {
         <Mission />
         <OurValues />
         <Team />
-        <Waitlist />
       </main>
     </>
   );

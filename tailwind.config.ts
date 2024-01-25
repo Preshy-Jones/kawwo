@@ -38,6 +38,8 @@ const config: Config = {
         btn: "#6E257E",
         txt: "#F4F5F7",
         bgx: "#1C3454",
+        bgr: "#A7A7A7",
+        bgf: "#1C304A",
       },
       borderRadius: {
         primary: "1.875rem",
