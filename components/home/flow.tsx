@@ -20,12 +20,12 @@ const Flow = () => {
           </h2>
           <p className="text-secondary font-medium text-secondaryc text-opacity-70 text-center">
             Kawwo&apos;s integrated ecosystem isn&apos;t just about providing
-            single-purpose solutions. It&apos;s about empowering you to transform
-            your entire financial landscape.
+            single-purpose solutions. It&apos;s about empowering you to
+            transform your entire financial landscape.
           </p>
         </div>
-        <div className=" grid grid-cols-3 gap-x-6 py-16">
-          <div className="bg-txt px-4 py-4">
+        <div className=" grid grid-cols-1 xs:grid-cols-4 lg:grid-cols-3 gap-x-6 py-16 gap-y-6 lg:gap-y-0">
+          <div className="bg-txt px-4 py-4 xs:col-start-1 xs:col-end-3 lg:col-start-1 lg:col-end-2">
             <Image src={wifiLogo} alt="wifi" />
             <h2 className="text-fifth mt-6">NIN Verification & Enrolment</h2>
             <p className=" text-secondary text-secondaryc text-opacity-70 mt-4 font-medium">
@@ -33,7 +33,7 @@ const Flow = () => {
               Student status verification.
             </p>
           </div>
-          <div className="bg-txt px-4 py-4">
+          <div className="bg-txt px-4 py-4 xs:col-start-3 xs:col-end-5 lg:col-start-2 lg:col-end-3">
             <Image src={idCard} alt="wifi" />
             <h2 className="text-fifth mt-6">Safe and quick transactions</h2>
             <p className=" text-secondary font-medium text-secondaryc text-opacity-70 mt-4">
@@ -41,7 +41,7 @@ const Flow = () => {
               that we prioritize both safety and speed.
             </p>
           </div>
-          <div className="bg-txt px-4 py-4">
+          <div className="bg-txt px-4 py-4 xs:col-start-2 xs:col-end-4 lg:col-start-3 lg:col-end-4">
             <Image src={check} alt="wifi" />
             <h2 className="text-fifth mt-6">Student Status Verification</h2>
             <p className=" text-secondary font-medium text-secondaryc text-opacity-70 mt-4">
@@ -71,7 +71,7 @@ const Flow = () => {
             Discover a Suite of Innovative Financial Features Designed to
             Empower You on Your Path to Success.
           </p>
-          <div className="grid grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className=" rounded-2xc border border-bgx p-6 bg-opacity-25">
               <Image src={userImage} alt="user" className="" />
               <h2 className="font-medium text-fifth mt-5 mb-3">
@@ -138,8 +138,8 @@ const Flow = () => {
               <p className="text-secondaryc text-secondary text-opacity-70 font-medium">
                 Plan your future future. Our Student Loans feature provides
                 flexible and affordable financing options, making education
-                accessible. Focus on learning; We&apos;ve got the financial support
-                covered.
+                accessible. Focus on learning; We&apos;ve got the financial
+                support covered.
               </p>
             </div>
           </div>
