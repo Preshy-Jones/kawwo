@@ -7,7 +7,7 @@ const Features = () => {
         <div className=" mb-9">
           <h1 className="text-sixth">Get things done in no time</h1>
           <p className="text-primary text-bgr">
-            You don’t have to create an account first
+            You don&apos;t have to create an account first
           </p>
         </div>
         <div className="mb-12">
@@ -33,7 +33,7 @@ const Features = () => {
             <div className="col-start-2 col-end-10">
               <h3>Choose Your Goal</h3>
               <p className="text-bgr">
-                Select your financial objective, whether it's saving for the
+                Select your financial objective, whether it&apos;s saving for the
                 future, sending money globally, or funding your education. Our
                 app adapts to your unique needs.
               </p>

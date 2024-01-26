@@ -19,8 +19,8 @@ const Flow = () => {
             Products Built to Amplify Each Other
           </h2>
           <p className="text-secondary font-medium text-secondaryc text-opacity-70 text-center">
-            Kawwo's integrated ecosystem isn't just about providing
-            single-purpose solutions. It's about empowering you to transform
+            Kawwo&apos;s integrated ecosystem isn&apos;t just about providing
+            single-purpose solutions. It&apos;s about empowering you to transform
             your entire financial landscape.
           </p>
         </div>
@@ -55,7 +55,7 @@ const Flow = () => {
             Shift from Reactive to Proactive Excellence.
           </h2>
           <p className="font-medium text-center text-tertiaryc text-opacity-95">
-            Unlock the power of proactive financial management with Kawwo's
+            Unlock the power of proactive financial management with Kawwo&apos;s
             innovative products. Our comprehensive suite, powered by the unified
             Empower platform, revolutionizes your financial journey. Seamlessly
             transition from reactive to proactive, leveraging cutting-edge
@@ -138,7 +138,7 @@ const Flow = () => {
               <p className="text-secondaryc text-secondary text-opacity-70 font-medium">
                 Plan your future future. Our Student Loans feature provides
                 flexible and affordable financing options, making education
-                accessible. Focus on learning; We've got the financial support
+                accessible. Focus on learning; We&apos;ve got the financial support
                 covered.
               </p>
             </div>

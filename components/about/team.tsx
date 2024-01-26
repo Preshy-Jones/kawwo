@@ -20,13 +20,13 @@ const Team = () => {
     <div className="flex justify-center">
       <div className="w-[73.375%]">
         <h2 className="text-center text-[4rem] mt-8">Meet the team</h2>
-        <p className="text-center text-[2.5rem] font-semibold text-tertiary text-opacity-90">
+        <p className="text-center text-[2.5rem] font-semibold text-opacity-90">
           Passionate Minds Driving Financial Empowerment
         </p>
         <p className="mb-8 text-center mt-6">
           Our diverse team of passionate fintech experts brings together a
           wealth of expertise in finance, technology, and customer service.
-          We're united by a common goal: to empower individuals and businesses
+          We&apos;re united by a common goal: to empower individuals and businesses
           to achieve financial success.
         </p>
         <div>
