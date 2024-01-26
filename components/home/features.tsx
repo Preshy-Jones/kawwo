@@ -14,7 +14,7 @@ const Features = () => {
           <div className="grid grid-cols-9 mb-1">
             <div className="col-start-1 col-end-2">
               <h2>01</h2>
-              <div className="w-[1px] h-[4rem] bg-primary"></div>
+              <div className="w-[1px] h-[4rem] bg-primary ml-2"></div>
             </div>
             <div className="col-start-2 col-end-10">
               <h3>Explore Features</h3>
@@ -28,7 +28,7 @@ const Features = () => {
           <div className="grid grid-cols-9 mb-1">
             <div className="col-start-1 col-end-2">
               <h2>02</h2>
-              <div className="w-[1px] h-[4rem] bg-primary"></div>
+              <div className="w-[1px] h-[4rem] bg-primary ml-2"></div>
             </div>
             <div className="col-start-2 col-end-10">
               <h3>Choose Your Goal</h3>
@@ -42,7 +42,7 @@ const Features = () => {
           <div className="grid grid-cols-9 mb-1">
             <div className="col-start-1 col-end-2">
               <h2>03</h2>
-              <div className="w-[1px] h-[4rem] bg-primary"></div>
+              <div className="w-[1px] h-[4rem] bg-primary ml-2"></div>
             </div>
             <div className="col-start-2 col-end-10">
               <h3>Seamless Transactions</h3>
@@ -56,7 +56,7 @@ const Features = () => {
           <div className="grid grid-cols-9 mb-1">
             <div className="col-start-1 col-end-2">
               <h2>04</h2>
-              <div className="w-[1px] h-[4rem] bg-primary"></div>
+              <div className="w-[1px] h-[4rem] bg-primary ml-2"></div>
             </div>
             <div className="col-start-2 col-end-10">
               <h3>Track and Celebrate</h3>

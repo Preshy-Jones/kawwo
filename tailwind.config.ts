@@ -30,6 +30,10 @@ const config: Config = {
         "1.5xl": ["1.3125rem", { lineHeight: "1.75rem" }],
         "6.5xl": ["4rem", { lineHeight: "6rem" }],
       },
+      gridTemplateColumns: {
+        // Simple 16 column grid
+        'footer': '20% 80%',
+      },
       colors: {
         primary: "#400F4B",
         secondaryc: "#1B2B41",
