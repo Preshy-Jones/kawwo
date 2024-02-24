@@ -10,7 +10,9 @@ const NavBar = () => {
     <div className="w-full  py-3 flex justify-center ">
       <div className="w-[82.22%] relative">
         <div className=" flex items-center justify-between">
-          <Image src={kawwoLogo} alt="kawwo-logo" className="" />
+          <Link href={"/"}>
+            <Image src={kawwoLogo} alt="kawwo-logo" className="" />
+          </Link>
           <ul className="lg:flex justify-around w-[50%] hidden">
             <Link href={"#"} className="">
               Products
